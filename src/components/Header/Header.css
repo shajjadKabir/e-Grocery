@@ -1,0 +1,16 @@
+.header-title{
+    color: #040935 !important;
+    font-size: 32px !important;
+    font-weight: bold;
+}
+.header-nav .nav-link{
+    color: rgb(5, 4, 4) !important;
+    font-weight: 500;
+    margin: 15px;
+    width: fit-content;
+    border-bottom: 2px solid transparent;
+}
+.header-nav .nav-link:hover{
+    color: #FA804C !important;
+}
+

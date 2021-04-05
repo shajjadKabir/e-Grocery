@@ -1,0 +1,24 @@
+h3 {
+    color: #363958;
+    font-weight: bold;
+    font-size: 25px;
+}
+h5 span {
+    color: #FA804C;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: -2px -2px 4px #fff, 2px 2px 5px #7c808d;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+  .product{
+    border: 0;
+    border-radius: 20px;
+  }
+
+  .product-bg {
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
