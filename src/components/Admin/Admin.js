@@ -10,7 +10,7 @@ const Admin = () => {
   return (
     <>
       <div className="container-fluid row ">
-        <div className="margin col-md-4 py-5 px-4">
+        <div className="margin col-md-4 px-4">
           <div className="sidebar ">
             <div>
               <Link to="/" className="text-white">
@@ -33,7 +33,7 @@ const Admin = () => {
             </ul>
           </div>
         </div>
-        <div className=" margin col-md-8 p-4 ">
+        <div className=" margin col-md-8 p-4 pr-5">
           <div className="form-area">
             <EditProduct />
           </div>

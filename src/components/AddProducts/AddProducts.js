@@ -53,7 +53,7 @@ const AddProducts = () => {
   };
   return (
     <div className="container-fluid row ">
-      <div className="margin col-md-4 py-5 px-4">
+      <div className="margin col-md-4 px-4">
         <div className="sidebar ">
           <div>
             <Link to="/" className="text-white">

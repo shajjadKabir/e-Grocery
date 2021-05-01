@@ -7,7 +7,7 @@
     align-items: center;
     padding: 20px 0;
     color: white;
-    height: 100vh;
+    height: 150vh;
 }
 .nav-link{
     color: white;
@@ -16,12 +16,8 @@
 .add-title{
     padding: 30px 0 0 30px;
 }
-.form-area{
+/* .form-area{
     background: #f4fcfb;
     padding: 50px;
     height: 90vh;
-}
-/* .margin{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
 } */

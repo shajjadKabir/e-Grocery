@@ -1,10 +1,13 @@
-Live site link [LIVE](https://e-shop-602ef.web.app).
+ [LIVE Site](https://e-shop-602ef.web.app).
 
-## About Project
+e-Grocery is a responsive E-commerce website. <br>
 
-e-Grocery is a grocery management website. <br>
-Where a user can see a products from home page and buy the products. When a user click buy now button then user can checkout their products and after checkout user see the orders list for shipment.If user not logged in this site they can not use this service. <br>
-Admin can add or manage products and services .
+## Project features
+
+* On the Home Page, user see some products which is loaded from the Backend API 
+* Here User can order any products
+* User can see their order list 
+* Admin can add & manage products
 
 ### Front-end Technology used : 
 * React.js
@@ -13,7 +16,7 @@ Admin can add or manage products and services .
 * CSS
 
 ### Back-end Technology used: 
-* EJS
+* express js
 * nodeJs
 * mongoDB
 * firebase
